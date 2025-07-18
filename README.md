@@ -8,7 +8,7 @@ Sebuah sistem cerdas untuk menganalisis tingkat kesehatan tumbuhan berdasarkan p
 
 ## 🌟 Tentang Proyek
 
-[cite_start]Proyek ini dibuat sebagai Tugas Besar untuk mata kuliah **Dasar Kecerdasan Artifisial**[cite: 2]. [cite_start]Tujuannya adalah membangun model yang mampu mengolah data lingkungan yang tidak pasti (seperti kelembapan dan intensitas cahaya) untuk menghasilkan diagnosis kesehatan tanaman yang akurat[cite: 17, 21].
+Proyek ini dibuat sebagai Tugas Besar untuk mata kuliah **Dasar Kecerdasan Artifisial**. Tujuannya adalah membangun model yang mampu mengolah data lingkungan yang tidak pasti (seperti kelembapan dan intensitas cahaya) untuk menghasilkan diagnosis kesehatan tanaman yang akurat.
 
 ### 🛠️ Dibangun Menggunakan
 
@@ -19,10 +19,10 @@ Sebuah sistem cerdas untuk menganalisis tingkat kesehatan tumbuhan berdasarkan p
 
 ## ✨ Fitur Utama
 
-* [cite_start]**Seleksi Data**: Memilih parameter input yang relevan seperti Kelembapan Tanah, Intensitas Cahaya, dan Kandungan Klorofil[cite: 38].
-* [cite_start]**Implementasi Mamdani**: Model dengan output linguistik yang intuitif[cite: 199].
-* [cite_start]**Implementasi Sugeno**: Model yang efisien secara komputasi[cite: 199, 203].
-* [cite_start]**Evaluasi Model**: Membandingkan akurasi dan kinerja kedua model menggunakan metrik seperti *precision*, *recall*, dan *confusion matrix* [cite: 180-184].
+* **Seleksi Data**: Memilih parameter input yang relevan seperti Kelembapan Tanah, Intensitas Cahaya, dan Kandungan Klorofil.
+* **Implementasi Mamdani**: Model dengan output linguistik yang intuitif.
+* **Implementasi Sugeno**: Model yang efisien secara komputasi.
+* **Evaluasi Model**: Membandingkan akurasi dan kinerja kedua model menggunakan metrik seperti *precision*, *recall*, dan *confusion matrix* .
 
 ## 🚀 Cara Menjalankan Proyek
 
@@ -43,12 +43,19 @@ Sebuah sistem cerdas untuk menganalisis tingkat kesehatan tumbuhan berdasarkan p
 
 ## 📈 Hasil
 
-[cite_start]Berdasarkan evaluasi terhadap 1200 data, kedua model menunjukkan performa yang mirip dengan **akurasi 75%**[cite: 188]. [cite_start]Namun, model Mamdani terbukti sedikit lebih andal dan konsisten di semua kelas pengujian[cite: 192, 196].
+Berdasarkan evaluasi terhadap 1200 data, kedua model menunjukkan performa yang mirip dengan **akurasi 75%**. Namun, model Mamdani terbukti sedikit lebih andal dan konsisten di semua kelas pengujian.
 
 | Model   | Akurasi | Rata-rata F1-Score |
 |---------|---------|--------------------|
 | Mamdani | 75%     | 0.74               |
 | Sugeno  | 75%     | 0.74               |
+
+## 🧑‍🤝‍🧑 Tim Penyusun
+| Nama Anggota                 | Username Github |
+|------------------------------|-----------------|
+| Sitti Fadhillah Nur Ahsan    | @dicodella.go   |
+| Aisya Zahra                  | @isaffectionate |
+| Ameta Noveolyn               | @               |
 
 ## 🤝 Kontribusi
 
