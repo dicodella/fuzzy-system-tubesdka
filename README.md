@@ -53,7 +53,7 @@ Berdasarkan evaluasi terhadap 1200 data, kedua model menunjukkan performa yang m
 ## 🧑‍🤝‍🧑 Tim Penyusun
 | Nama Anggota                 | Username Github |
 |------------------------------|-----------------|
-| Sitti Fadhillah Nur Ahsan    | @dicodella.go   |
+| Sitti Fadhillah Nur Ahsan    | https://github.com/dicodella      |
 | Aisya Zahra                  | @isaffectionate |
 | Ameta Noveolyn               | @               |
 
