@@ -55,7 +55,7 @@ Berdasarkan evaluasi terhadap 1200 data, kedua model menunjukkan performa yang m
 |------------------------------|-----------------|
 | Sitti Fadhillah Nur Ahsan    | [@dicodella](https://github.com/dicodella)      |
 | Aisya Zahra                  | [@isaffectionate](https://github.com/isaffectionate) |
-| Ameta Noveolyn               | @               |
+| Ameta Noveolyn               | [@prosandnoobs](https://github.com/prosandnoobs) |
 
 ## 🤝 Kontribusi
 
